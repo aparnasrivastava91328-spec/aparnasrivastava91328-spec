@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aparna-srivastava-703667369/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aparna.srivastava91328@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:aparnasrivastava91328@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=aparnasrivastava91328-spec&style=flat&color=0F6CBD&label=Profile+views" alt="Profile views">
 </p>
 
@@ -31,8 +31,7 @@ Welcome to my corner of GitHub! I'm a Business Intelligence professional who gen
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg" width="0" height="0" alt="">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/power-bi/power-bi.png" width="140" alt="Power BI">
+<img src="https://img.icons8.com/color/144/power-bi.png" width="140" alt="Power BI">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnasrivastava91328-spec&layout=compact&theme=default&hide_border=true" alt="Top languages">
 
@@ -43,12 +42,12 @@ Welcome to my corner of GitHub! I'm a Business Intelligence professional who gen
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/power-bi/power-bi.png" width="48" height="48" title="Power BI" alt="Power BI">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" width="48" height="48" title="Microsoft Fabric / Azure" alt="Azure">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/144/power-bi.png" width="48" height="48" title="Power BI" alt="Power BI">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/azure-1.png" width="48" height="48" title="Microsoft Fabric / Azure" alt="Azure">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" title="SQL Server" alt="SQL Server">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" title="Python" alt="Python">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas" alt="Pandas">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/excel/excel.png" width="48" height="48" title="Excel" alt="Excel">&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="48" height="48" title="Excel" alt="Excel">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" title="Git" alt="Git">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="48" height="48" title="Azure DevOps" alt="Azure DevOps">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" title="VS Code" alt="VS Code">
@@ -107,9 +106,9 @@ Welcome to my corner of GitHub! I'm a Business Intelligence professional who gen
 
 <a href="https://www.linkedin.com/in/aparna-srivastava-703667369/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"></a>
 &nbsp;
-<a href="mailto:aparna.srivastava91328@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" alt="Email"></a>
+<a href="mailto:aparnasrivastava91328@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40" height="40" alt="Email"></a>
 
-📧 Email: [aparna.srivastava91328@gmail.com](mailto:aparna.srivastava91328@gmail.com)
+📧 Email: [aparnasrivastava91328@gmail.com](mailto:aparnasrivastava91328@gmail.com)
 
 ## 🚀 Let's Connect & Create!
 
