@@ -33,7 +33,13 @@ Welcome to my corner of GitHub! I'm a Business Intelligence professional who gen
 
 <img src="https://img.icons8.com/color/144/power-bi.png" width="140" alt="Power BI">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aparnasrivastava91328-spec&layout=compact&theme=default&hide_border=true" alt="Top languages">
+<table width="100%">
+<tr><th align="left" colspan="2">🎯 Currently focused on</th></tr>
+<tr><td>🏠 Fabric Lakehouse</td><td>Medallion architecture, OneLake</td></tr>
+<tr><td>⚡ Direct Lake</td><td>Semantic models without import refresh</td></tr>
+<tr><td>📡 Real-Time Intelligence</td><td>Eventstreams &amp; KQL</td></tr>
+<tr><td>🤖 Copilot for Power BI</td><td>Copilot-ready model design</td></tr>
+</table>
 
 </td>
 </tr>
